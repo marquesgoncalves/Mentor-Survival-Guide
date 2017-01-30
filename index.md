@@ -1,42 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/marquesgoncalves/Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marquesgoncalves/Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-#Programa Mentor
+# Programa Mentor
 
 It is a program aimed at welcoming students from outside Catalonia,  who will make an exchange stay in UVic-UCC. It allows students and staff to engage in volunteering activities within an intercultural context and facilitates the linguistic and cultural academic integration of the host students.
 If you are a mentor:
@@ -51,7 +13,7 @@ If you are a mentor:
 
 In short, it will open new perspectives and you will live new experiences!
 
-##Programa Mentor without academic recognition
+## Programa Mentor without academic recognition
 
 The Mentor Program without academic recognition is based on your voluntary commitment to help a student host and perform various tasks prior to your arrival and during your stay at UVic-UCC. 
 Among other things:
@@ -59,7 +21,7 @@ Among other things:
 - You will have the possibility of attending a training session that will give you tools and resources to host the exchange students or students from outside Catalonia.
 - You can propose activities to do with other students in the program (mentors and mentors) inside and outside the context of the university.
 
-##Programa Mentor with academic recognition
+## Programa Mentor with academic recognition
 
 Participation in the Mentor Program with academic recognition allows you to recognize 1 RAC credit (equivalent to 25 hours of dedication) each time, with a maximum of 2 credits. Therefore, in addition to the volunteer activities of a person committed to the reception of newcomers, this modality includes mandatory activities. 
 Among other things:
@@ -68,7 +30,7 @@ Among other things:
 - You must participate actively in the organization of some recreational and cultural activity.
 - You must present a report at the end of the mentoring period
 
-#Accommodation
+# Accommodation
 
 As a Mentor you might suggest to your mentorees to see a house before taking it. Normally Erasmus come to Vic without a permanent place to live, however you should suggest them to not arrive without temporary accommodation. It is probably not a bad idea to recommend booking a hostel or a room in a residence hall for the first couple of days before arriving. 
 
@@ -78,8 +40,6 @@ When searching for accommodation, can be hard to find the perfect one room/flat.
 Normally, faculties at UVic-UCC have a wall where students post ads for houses up for rent in Vic, so you should tell your mentorees to try and go take a look there. Also there are some Facebook pages and groups that offer renting opportunities, not only for Catalan and Spanish students, but also International Students.
 
 Understand that, as a Mentor, the Catalan and Spanish of some of the International Students isn’t the best upon their arrival and some landlords don’t speak English, so it would be kind of you to offer your help with communication issues. Also if your mentoree already found a place but need someone to share the house with, help them finding someone by sharing that information with other mentorees or in the International Students Facebook group.
-
-##Accommodation Tips
 
 **Here is a checklist of points and information you should consider giving to your mentoree when seeing a house/room:**
 
@@ -100,7 +60,7 @@ Understand that, as a Mentor, the Catalan and Spanish of some of the Internation
 - **Bed size:** The size of the bed is not vital, but It is sure nice to have a double bed if you like having someone over from time to time, or just to have more space while you sleep. This is a plus in a bedroom.
 - **Parties and noise:**  Old houses will eventually be prone to more noisy since the walls are not so insulated. This will be relevant, specially when considering the neighbours, in the moment of throwing a house party/dinner. Good neighbour relations will also allow you more time before someone calls the police.
 
-#Internet and Mobile
+# Internet and Mobile
 
 When moving to another country people will be meeting a lot of locals with a local number, which they might need to text or call. Your mentorees are not different. Also, we all need internet on our smartphones and not every place has free Wi-Fi yet. And, as referred in the accommodation section, the house they’ll rent might not have internet installed either.
 
@@ -112,7 +72,7 @@ Regarding phone plans, Spain operates on a GSM network. Which means Europeans an
 
 If you can take them to the a phone store and show them the phone plans available and/or the phones available to them to use during their stay in Vic.
 
-#Finance
+# Finance
 
 Even if your mentorees won’t be staying in Spain for longer than six months, they will probably need ( and might come in handy) a bank account. Many phone companies and internet providers require it for registration and providing services. 
 
