@@ -13,6 +13,8 @@ If you are a mentor:
 
 In short, it will open new perspectives and you will live new experiences!
 
+![Students Talking](https://www.uvic.cat/sites/default/files/110_3247_1.jpg)
+
 ## Programa Mentor without academic recognition
 
 The Mentor Program without academic recognition is based on your voluntary commitment to help a student host and perform various tasks prior to your arrival and during your stay at UVic-UCC. 
